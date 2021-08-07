@@ -1,2 +1,3 @@
 # hello-world
 This is going to be my first repository on github. Hopefully, many more will follow in the coming years.
+My name is Asaf and I am a student of applied Chemistry and  Chemical Engineering. I am interested in coding as I believe it will be useful to simulate Chemical and Biological Systems. I also have some other ideas that I would like to try out, but for now, this will have to do. My favorite languages are Python(obviously! ) and sql. I also know HTML, CSS and a little bit of Javascript. I am currently learning Java and R, Java to design android apps and R to analyze data(though I can do it in Python, but not that well). I plan to learn C next.
